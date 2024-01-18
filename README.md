@@ -3,6 +3,7 @@
 
 
 ### Sobre
+<p aligh="justify">
 Bem-vindo ao repositório do DODP, parte integrante do Departamento de Acompanhamento de Gestão e Transparência (DGT) na Controladoria Geral do Município (CGM). O DODP compete:<br>
 I - propor e supervisionar estudos e pesquisas sobre temas relacionados ao
 patrimônio público, qualidade do gasto público, mapeamento de riscos no governo e
@@ -18,6 +19,7 @@ a subsidiar apurações em curso;<br>
 VI - realizar suas atividades orientadas mediante plano anual de atividades;<br>
 VII - realizar outras atividades correlatas.<br>
 Utilizamos ferramentas avançadas de Business Intelligence, como Python e Power BI, e temos competência em desenvolvimento web com HTML, CSS, JavaScript e TypeScript. O DODP trabalha em parceria com o Departamento de Auditoria (DEA) e a Divisão de Auditoria da Tecnologia da Informação (DATI), fortalecendo a integridade e a transparência na gestão municipal.
+</p>
 
 ## Equipe DODP <a href="https://github.com/DODP-CGM-PVH" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 - **Cassiano Braz - Gerente**  <a href="https://github.com/cassianobraz" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/cassiano-pereira-4b39a120b" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
